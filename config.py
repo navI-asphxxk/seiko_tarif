@@ -1,6 +1,6 @@
 from menues import main_menu
 
-BOT_TOKEN = "6034126823:AAECRKEiapisMx-t5UroSnU2ucKo_PfsBjg"
+BOT_TOKEN = "token"
 
 owner_id = [577235663, 157447739]
 
